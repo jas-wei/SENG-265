@@ -1,0 +1,40 @@
+routes:
+- airline_name: Ryanair
+  airline_icao_unique_code: RYR
+  airline_country: Ireland
+  from_airport_name: Rhodes Diagoras
+  from_airport_city: Rhodos
+  from_airport_country: Greece
+  from_airport_icao_unique_code: LGRP
+  from_airport_altitude: '17.0'
+  to_airport_name: Skavsta
+  to_airport_city: Stockholm
+  to_airport_country: Sweden
+  to_airport_icao_unique_code: ESKN
+  to_airport_altitude: '140.0'
+- airline_name: Sichuan Airlines
+  airline_icao_unique_code: CSC
+  airline_country: China
+  from_airport_name: Changzhou
+  from_airport_city: Changzhou
+  from_airport_country: China
+  from_airport_icao_unique_code: ZSCG
+  from_airport_altitude: '39.0'
+  to_airport_name: Taiping
+  to_airport_city: Harbin
+  to_airport_country: China
+  to_airport_icao_unique_code: ZYHB
+  to_airport_altitude: '457.0'
+- airline_name: Wizz Air
+  airline_icao_unique_code: WZZ
+  airline_country: Hungary
+  from_airport_name: Strachowice
+  from_airport_city: Wroclaw
+  from_airport_country: Poland
+  from_airport_icao_unique_code: EPWR
+  from_airport_altitude: '404.0'
+  to_airport_name: Robin Hood Doncaster Sheffield Airport
+  to_airport_city: Doncaster
+  to_airport_country: ' Sheffield'
+  to_airport_icao_unique_code: DSA
+  to_airport_altitude: '-1.004444'
